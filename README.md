@@ -25,8 +25,8 @@ In dev mode, you need to run the cors proxy in a seperate terminal. Use the comm
 
 ## Meta
 
-idiidk – [@idiidka](https://twitter.com/idiidka)
+idiidk – [@alexc3491](https://twitter.com/alexc3491)
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/idiidk](https://github.com/idiidk/)
+[https://github.com/Alexc3491](https://github.com/Alexc3491/)
