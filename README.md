@@ -1,5 +1,5 @@
 # Kahoot Tools Vue
-> Scaring teachers since Sep 27, 2017!
+> Scaring teachers since Aug 13, 2020!
 
 A suite of tools for fucking with Kahoot games. Easily installable and customizable.
 
@@ -11,7 +11,7 @@ To quickly start using kahoot-tools after installation, please refer to the quic
 OS X, Linux and Windows:
 
 ```sh
-git clone https://github.com/idiidk/kahoot-tools.git
+git clone https://github.com/Alexc3491/kahoot-tools.git
 cd kahoot-tools
 npm install # or use yarn
 # Edit config.json
